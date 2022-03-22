@@ -1,2 +1,2 @@
 # scaylers
-An injection based SonOyuncu
+An injection based hack for SonOyuncu
